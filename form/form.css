@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing : border-box;
+}
+body{
+    background-color:whitesmoke;
+}
+.drishti{
+    padding-left:5px;
+    margin: 14px;
+    margin-left:17.5em;
+    background-color:rgb(29, 185, 247);
+    width:50em;
+    height:38.4em;
+}
+.drishti{
+    display: grid;
+    gap: 1 rem;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+form{
+    margin:8em;
+    margin-top:2em;
+    padding:20px;
+    margin-left:6em;
+    width:250px;
+    height:37em;
+    background-color:#23233d ;
+    color: white;
+    border-radius:20px;
+    font-family: 'poppins', cambria, Georgia;
+    font-size: 15px;
+}
+.divone{
+    padding-top:70px;
+    text-align: center;
+}
+.thirdiv{
+    text-align: center;
+}
+img{
+    width:60px;
+    height: 50%;
+    border-radius:20px;
+    padding:10px;
+}
+.secsection{
+    padding-top:50px;
+}
+.secdiv input{
+    padding-left:20px;
+    margin:7px;
+    border-style:none;
+    background: none;
+    color: white;
+    outline-style:none;
+}
+hr{
+    width:210px;
+}
+button{
+        background-color: #0898b8;
+        opacity:1px;
+        border: 1px solid #0ab2d8;
+        border-radius: 50%;
+        color: white;
+        height: 40px;
+        width: 40px;
+        margin-left:6.3em;
+        margin-top:em;
+}
+button i {
+    transform: scale(1.5,1);
+}
+.divya{
+    padding: 20px;
+    margin-top:45px;
+}
+.divya a{
+    color: #0a84ff;
+    text-decoration: none;
+}
+.class-one{
+    padding:50px;
+    text-align: center; 
+}
+.divy{
+    padding:15px;
+    margin-top:20px;
+}
+.divy a{
+    color: #0a84ff;
+    text-decoration: none;
+}
+.firstDivy input{
+    margin: 5px;
+    padding-left:5px;
+    border-style:none;
+    background: none;
+    color: white;
+    outline-style:none;
+}
+.firstform{
+    margin-right: auto;
+}
+.secondform{
+margin-left:70px;
+}
