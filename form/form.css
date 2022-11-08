@@ -15,7 +15,7 @@ body{
     height:38.4em;
 }
 .drishti{
-    display: grid;
+    display:grid;
     gap: 1 rem;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
