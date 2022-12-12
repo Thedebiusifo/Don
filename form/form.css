@@ -8,11 +8,11 @@ body{
 }
 .drishti{
     padding-left:5px;
-    margin: 14px;
+    margin:14px;
     margin-left:17.5em;
     background-color:rgb(29, 185, 247);
     width:50em;
-    height:38.4em;
+    height:36.5em;
 }
 .drishti{
     display:grid;
@@ -21,7 +21,7 @@ body{
 }
 form{
     margin:8em;
-    margin-top:2em;
+    margin-top:1em;
     padding:20px;
     margin-left:6em;
     width:250px;
